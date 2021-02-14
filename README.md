@@ -22,7 +22,7 @@ const sergioRuntime = {
                         "StackOverflow",
                         "Reddit",
                         "FreeCodeCamp"
-                      },
+                   },
  challenge: "Get training as a professional",
 }
 ```
