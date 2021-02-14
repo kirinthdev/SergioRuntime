@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋 I'm Sergio, Junior FrontEnd Developer. Nice to see you !!🤗</h1>
 <img align='right' src="https://blush.design/api/download?shareUri=iJweu2m-K&c=Bottom_0%7Eff4133_Hair_0%7E4a312c_Skin_0%7Eeac7a8_Top_0%7Ef2f2f2&w=800&h=800&fm=png" width="230">
 
-### A little more about me... 
+### <img src="https://media.giphy.com/media/RxAdKu5nrs32vhKEUq/giphy.gif" width="40px"> A little more about me... 
 
 - 🌱  I’m currently learning FrontEnd courses in Platzi 💚 
 - 🥅  2021 Goals: Improve and train as a professional web development 😎 
