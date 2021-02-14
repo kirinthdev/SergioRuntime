@@ -14,10 +14,10 @@
 
 ```javascript
 const sergioRuntime = {
-  frontEnd: ["Javascript", "HTML", "CSS", "React", "Webpack", Sass],
+  frontEnd: ["Javascript", "HTML", "CSS", "React", "Webpack", "Sass"],
   backEnd: ["Node", "Express"],
   dataBase: ["MySQL", "MongoDB"],
-  tools: ["Visual Studio Code", "Terminal", "GitHub", Azure],
+  tools: ["Visual Studio Code", "Terminal", "GitHub", "Azure"],
   techCommunities: {
                         "StackOverflow",
                         "Reddit",
