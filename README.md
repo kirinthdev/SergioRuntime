@@ -14,10 +14,10 @@
 
 ```javascript
 const sergioRuntime = {
-  code: ["Javascript", "HTML", "CSS"],
-  frameworks: ["React", "Node", "Express", "Sass", "Webpack"],
+  frontEnd: ["Javascript", "HTML", "CSS", "React", "Webpack", Sass],
+  backEnd: ["Node", "Express"],
   dataBase: ["MySQL", "MongoDB"],
-  tools: ["Visual Studio Code", "Terminal", "GitHub"],
+  tools: ["Visual Studio Code", "Terminal", "GitHub", Azure],
   techCommunities: {
                         "StackOverflow",
                         "Reddit",
@@ -52,7 +52,7 @@ const sergioRuntime = {
 <img align="left" alt="Npm" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />
 <img align="left" alt="Webpack" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" />
 <img align="left" alt="Wordpress" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" />
-
+<img align="left" alt="Babel" width="26px" src="https://raw.githubusercontent.com/github/explore/cb39e2385dfcec8a661d01bfacff6b1e33bbaa9d/topics/babel/babel.png" />
 
 <br />
 <br />
