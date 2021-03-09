@@ -15,13 +15,14 @@
 ```javascript
 const sergioRuntime = {
   frontEnd: ["Javascript", "HTML", "CSS", "React", "Webpack", "Sass"],
-  backEnd: ["Node", "Express"],
+  backEnd: ["Node.js", "Express.js"],
   dataBase: ["MySQL", "MongoDB"],
   tools: ["Visual Studio Code", "Terminal", "GitHub", "Azure"],
   techCommunities: {
                         "StackOverflow",
                         "Reddit",
-                        "FreeCodeCamp"
+                        "FreeCodeCamp",
+                        "Platzi"
                    },
  challenge: "Get training as a professional",
 }
