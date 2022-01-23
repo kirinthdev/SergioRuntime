@@ -4,7 +4,7 @@
 ### A little more about me... 
 
 - 🌱  I’m currently learning FrontEnd courses in Platzi 💚 
-- 🥅  2021 Goals: Improve and train as a professional web development 😎 
+- 🥅  2022 Goals: Improve and train as a professional web development 😎 
 - 🚀  Always ready to collaborate for Dev Experiments
 - 🖥  I love to attend Meetups for learning & Conferences for Networking
 - ⚡  Fun fact: There are two ways to write error-free programs; only the third one works 🤣 
