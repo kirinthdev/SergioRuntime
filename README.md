@@ -61,4 +61,3 @@ const sergioRuntime = {
 ---
 
 [twitter]: https://twitter.com/SrMaaRtIIn
-[linkedin]: https://www.linkedin.com
